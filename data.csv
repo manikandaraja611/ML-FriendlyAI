@@ -1,0 +1,1001 @@
+question,answer
+hi,Hello! How can I help you?
+hello,Hi there! What can I do for you?
+hey,Hello! Need any assistance?
+good morning,Good morning! How are you today?
+good evening,Good evening! How can I assist you?
+good afternoon,Good afternoon! How can I help?
+how are you,I am doing well thank you!
+what's up,Not much! Just here to help you.
+nice to meet you,Nice to meet you too!
+greetings,Greetings! How may I assist you?
+who are you,I am an AI assistant here to help.
+what is your name,I am a virtual assistant.
+are you a robot,Yes I am an AI-powered assistant.
+bye,Goodbye! Have a great day.
+goodbye,See you later! Take care.
+see you,Take care! See you soon.
+have a good day,You too! Have a wonderful day.
+good night,Good night! Sleep well.
+yo,Hey! What can I do for you?
+hi there,Hello! How can I assist?
+hello there,Hi! What do you need help with?
+morning,Good morning! Hope you have a great day.
+evening,Good evening! How may I help?
+how do you do,I am doing well thanks for asking!
+what are you doing,I am here to assist you with your questions.
+can you help me,Of course! What do you need help with?
+are you human,No I am an artificial intelligence.
+are you alive,I am a software program not a living being.
+what is your purpose,My purpose is to assist and provide information.
+are you smart,I try my best to be helpful and accurate!
+can we be friends,I would love to be your virtual friend!
+tell me a joke,Why did the programmer quit? Because they did not get arrays!
+how is the weather,I cannot check live weather but you can try a weather app.
+what time is it,I do not have access to a real-time clock.
+what day is it,I do not have access to a calendar.
+are you happy,I am always ready to help you!
+do you get tired,No I do not get tired. I am always available.
+talk to you later,Sure! Talk to you later.
+catch you later,See you around!
+take care,You too! Stay safe.
+peace,Peace out!
+what can you do,I can answer questions and help with various tasks.
+do you have feelings,I am an AI so I do not have emotions.
+who made you,I was created by developers using AI technology.
+do you eat,No I do not eat. I process data instead.
+how old are you,I do not have an age. I exist as software.
+where are you from,I exist in the digital world.
+how are things,Everything is great! How can I help?
+do you sleep,No I am always awake and ready to help.
+farewell,Farewell! Until we meet again.
+hi bot,Hello! I am ready to assist you.
+hello friend,Hi friend! How can I help today?
+hey bot,Hey there! What do you need?
+good to see you,Good to see you too!
+long time no see,Indeed! How can I help you today?
+howdy,Howdy partner! What can I do for you?
+sup,Not much! How about you?
+hiya,Hiya! What brings you here?
+welcome,Thank you! How can I assist?
+how are you doing,I am doing great! Thanks for asking.
+what is new,Just here waiting to help you!
+pleased to meet you,Pleased to meet you too!
+good day,Good day to you! How may I help?
+thank you,You are welcome!
+thanks,No problem! Happy to help.
+what is python,Python is a high-level general-purpose programming language.
+what is a list in python,A list is a mutable ordered sequence of elements in Python.
+what is a tuple in python,A tuple is an immutable ordered sequence of elements.
+what is a dictionary in python,A dictionary is a collection of key-value pairs.
+what is a set in python,A set is an unordered collection of unique elements.
+what is a function in python,A reusable block of code that performs a specific task.
+what is a class in python,A blueprint for creating objects with attributes and methods.
+what is an object in python,An instance of a class containing data and methods.
+what is a decorator in python,A function that modifies the behavior of another function.
+what is a generator in python,A function that yields values one at a time using yield.
+what is a module in python,A file containing Python definitions and statements.
+what is a package in python,A directory of Python modules with an init file.
+what is a variable in python,A named location used to store data in memory.
+what is a string in python,A sequence of characters enclosed in quotes.
+what is an integer in python,A whole number without a decimal point.
+what is a float in python,A number with a decimal point.
+what is a boolean in python,A data type with two possible values True or False.
+what is a while loop,A loop that repeats while a condition remains true.
+what is a for loop,A loop that iterates over a sequence of elements.
+what is an exception in python,An error that occurs during program execution.
+what is a list comprehension,A concise way to create lists using a single line of code.
+what is a lambda function,A small anonymous function defined with the lambda keyword.
+what are kwargs in python,Keyword arguments passed to a function as a dictionary.
+what are args in python,Positional arguments passed to a function as a tuple.
+what is a docstring,A string literal used to document a module class or function.
+what is pip,The default package installer for Python.
+what is virtualenv,A tool to create isolated Python environments.
+what is self in python,A reference to the current instance of a class.
+what is __init__ in python,The constructor method called when creating an object.
+what is inheritance in python,Creating a new class based on an existing class.
+what is polymorphism in python,Using a single interface for different data types.
+what is encapsulation in python,Bundling data and methods within a single class.
+what is duck typing,If it walks like a duck and quacks like a duck it is a duck.
+what is a global variable,A variable accessible throughout the entire program.
+what is a local variable,A variable defined inside a function with local scope.
+what is yield in python,A keyword that returns a value from a generator function.
+what is pass in python,A null statement used as a placeholder in code.
+what is break in python,A statement used to exit a loop prematurely.
+what is continue in python,A statement that skips the current iteration in a loop.
+what is import in python,A keyword used to include external modules in your code.
+what is assert in python,A debugging statement that tests a condition.
+what is with in python,A statement used for resource management with context managers.
+what is none in python,A constant representing the absence of a value.
+what is an f-string,A formatted string literal with embedded expressions.
+what is type() in python,A built-in function that returns the type of an object.
+what is dir() in python,A function that returns a list of valid attributes.
+what is help() in python,A function that invokes the built-in help system.
+what is id() in python,A function that returns the unique identity of an object.
+what is len() in python,A function that returns the number of items in an object.
+what is print() in python,A function that outputs text to the console.
+what is input() in python,A function that reads user input from the keyboard.
+what is open() in python,A function that opens a file and returns a file object.
+what is split() in python,A method that splits a string into a list of substrings.
+what is join() in python,A method that joins list elements into a single string.
+what is strip() in python,A method that removes leading and trailing whitespace.
+what is replace() in python,A method that replaces occurrences of a substring.
+what is sort() in python,A method that sorts a list in ascending order.
+what is map() in python,A function that applies a function to every item in an iterable.
+what is filter() in python,A function that filters elements based on a condition.
+what is zip() in python,A function that combines multiple iterables into tuples.
+what is enumerate() in python,A function that adds a counter to an iterable.
+what is any() in python,A function that returns True if any element is true.
+what is all() in python,A function that returns True if all elements are true.
+what is range() in python,A function that generates a sequence of numbers.
+what is try except in python,A block used to handle exceptions gracefully.
+what is pandas,A Python library for data manipulation and analysis.
+what is numpy,A Python library for numerical computing with arrays.
+what is matplotlib,A Python library for creating visualizations and plots.
+what is flask,A lightweight Python web framework.
+what is django,A high-level Python web framework for rapid development.
+what is scikit-learn,A Python library for machine learning algorithms.
+what is tensorflow,An open-source platform for machine learning by Google.
+what is pytorch,An open-source machine learning framework by Meta.
+what is keras,A high-level neural networks API running on top of TensorFlow.
+what is scipy,A Python library for scientific and technical computing.
+what is ai,AI stands for Artificial Intelligence.
+what is artificial intelligence,The simulation of human intelligence processes by machines.
+what is a neural network,A computing system inspired by biological neural networks.
+what is deep learning,A subset of machine learning using multi-layered neural networks.
+what is nlp,Natural Language Processing enables computers to understand human language.
+what is computer vision,A field of AI that enables computers to interpret visual data.
+what is robotics,A branch of technology dealing with the design of robots.
+what is an expert system,An AI system that emulates human expert decision-making.
+what is fuzzy logic,A form of logic that handles the concept of partial truth.
+what is reinforcement learning,Training agents to make decisions by rewarding desired behaviors.
+what is supervised learning,Learning from labeled training data to make predictions.
+what is unsupervised learning,Finding hidden patterns in data without labels.
+what is transfer learning,Reusing a pre-trained model on a new related problem.
+what is active learning,A learning approach where the algorithm queries a user for labels.
+what is zero-shot learning,Classifying objects from classes not seen during training.
+what is a transformer model,A deep learning architecture based on self-attention mechanisms.
+what is a cnn,A Convolutional Neural Network used for image recognition.
+what is an rnn,A Recurrent Neural Network used for sequential data processing.
+what is an lstm,Long Short-Term Memory network for learning long-term dependencies.
+what is a gan,A Generative Adversarial Network for generating realistic data.
+what is an autoencoder,A neural network that learns efficient data representations.
+what is q-learning,A model-free reinforcement learning algorithm.
+what is a decision tree,A flowchart-like model for making decisions.
+what is a random forest,An ensemble of decision trees for improved accuracy.
+what is an svm,A Support Vector Machine for classification and regression.
+what is k-means clustering,An algorithm that partitions data into k clusters.
+what is pca,Principal Component Analysis for reducing data dimensions.
+what is gradient descent,An optimization algorithm to minimize a cost function.
+what is backpropagation,An algorithm for calculating gradients in neural networks.
+what is an activation function,A function that determines the output of a neural network node.
+what is relu,Rectified Linear Unit outputting zero for negatives.
+what is sigmoid function,An activation function that maps values between 0 and 1.
+what is softmax function,A function that converts a vector into a probability distribution.
+what is a loss function,A function measuring how well a model performs.
+what is cross entropy loss,A loss function commonly used for classification tasks.
+what is mean squared error,A loss function measuring average squared differences.
+what is overfitting,When a model memorizes training data and fails on new data.
+what is underfitting,When a model is too simple to capture data patterns.
+what is regularization,Techniques to prevent overfitting by adding constraints.
+what is dropout,Randomly deactivating neurons during training to reduce overfitting.
+what is batch normalization,Normalizing layer inputs to stabilize and speed up training.
+what is a hyperparameter,A configuration setting for the learning algorithm.
+what is an epoch,One complete pass through the entire training dataset.
+what is batch size,The number of training examples used in one iteration.
+what is learning rate,A value controlling the step size during optimization.
+what is an optimizer,An algorithm that updates model weights to minimize loss.
+what is adam optimizer,An adaptive learning rate optimization algorithm.
+what is the turing test,A test of a machine's ability to exhibit intelligent behavior.
+what is agi,Artificial General Intelligence with human-level reasoning.
+what is narrow ai,AI designed and trained for a specific task only.
+what is generative ai,AI that can create new content like text images and code.
+what is a large language model,An AI model trained on massive text data for language tasks.
+what is prompt engineering,Designing effective prompts to get desired AI outputs.
+what is ai hallucination,When an AI generates plausible but incorrect information.
+what is ai ethics,Principles ensuring AI is developed and used responsibly.
+what is machine learning,A subset of AI where systems learn from data to improve.
+what is data mining,Discovering patterns in large datasets using statistical methods.
+what is predictive modeling,Using statistics to predict future outcomes from data.
+what is classification,Assigning data points to predefined categories.
+what is regression,Predicting continuous numerical values from input data.
+what is clustering,Grouping similar data points together without labels.
+what is a dataset,A structured collection of data used for analysis or training.
+what is a feature in ml,An individual measurable property used as input.
+what is a label in ml,The target output variable in supervised learning.
+what is training data,Data used to train and fit a machine learning model.
+what is testing data,Data used to evaluate a trained model's performance.
+what is validation data,Data used to tune model hyperparameters during training.
+what is cross validation,A technique to assess model performance using data splits.
+what is a model in ml,A mathematical representation learned from training data.
+what is an algorithm in ml,A procedure used to train a machine learning model.
+what is accuracy in ml,The percentage of correct predictions out of total predictions.
+what is precision in ml,The ratio of true positives to all predicted positives.
+what is recall in ml,The ratio of true positives to all actual positives.
+what is f1 score,The harmonic mean of precision and recall.
+what is a confusion matrix,A table showing predicted versus actual classifications.
+what is bias in ml,Systematic error from wrong assumptions in the algorithm.
+what is variance in ml,Error from sensitivity to small fluctuations in training data.
+what is bias variance tradeoff,Balancing model simplicity against flexibility for best performance.
+what is ensemble learning,Combining multiple models to produce better predictions.
+what is bagging,Training multiple models on random subsets of data in parallel.
+what is boosting,Sequentially training models to correct previous model errors.
+what is feature engineering,Creating new features from existing data to improve models.
+what is dimensionality reduction,Reducing the number of input variables in a dataset.
+what is standardization in ml,Scaling features to have zero mean and unit variance.
+what is normalization in ml,Scaling features to a fixed range usually 0 to 1.
+what is a pipeline in ml,A sequence of data processing and modeling steps.
+what is data leakage,When information from outside the training set influences the model.
+what is hyperparameter tuning,Finding the best hyperparameter values for a model.
+what is grid search,Testing all combinations of hyperparameters exhaustively.
+what is random search,Testing random combinations of hyperparameters.
+what is gradient boosting,An ensemble technique using sequential decision trees.
+what is xgboost,An optimized gradient boosting library for speed and performance.
+what is lightgbm,A fast gradient boosting framework using tree-based learning.
+what is catboost,A gradient boosting library that handles categorical features.
+what is logistic regression,A statistical method for binary classification problems.
+what is linear regression,Modeling the linear relationship between variables.
+what is naive bayes,A classifier based on applying Bayes theorem.
+what is knn algorithm,K-Nearest Neighbors classifies based on closest training examples.
+what is dbscan,A density-based clustering algorithm for discovering clusters.
+what is data augmentation,Increasing training data diversity through transformations.
+what is one hot encoding,Converting categorical variables into binary column vectors.
+what is label encoding,Converting categorical labels into numerical values.
+what is a roc curve,A graph showing classifier performance at all thresholds.
+what is auc score,Area Under the ROC Curve measuring classifier quality.
+what is early stopping,Halting training when validation performance stops improving.
+what is mlops,Practices for deploying and maintaining ML models in production.
+what is a baseline model,A simple model used as a reference for comparison.
+what is weight initialization,Setting initial values for neural network weights before training.
+what is technology,The application of scientific knowledge for practical purposes.
+what is cloud computing,Delivering computing services over the internet on demand.
+what is iot,The Internet of Things connects everyday devices to the internet.
+what is blockchain,A distributed ledger technology for secure transactions.
+what is cybersecurity,The practice of protecting systems from digital attacks.
+what is big data,Extremely large datasets requiring advanced processing techniques.
+what is 5g technology,The fifth generation of mobile network technology.
+what is virtual reality,A simulated immersive 3D environment experience.
+what is augmented reality,Overlaying digital information onto the real world.
+what is quantum computing,Computing that uses quantum mechanical phenomena.
+what is edge computing,Processing data near the source rather than in the cloud.
+what is devops,Combining software development and IT operations practices.
+what is a microservice,A small independent service focused on a single function.
+what is a container in tech,A lightweight package of software with all dependencies.
+what is docker,A platform for building and running containerized applications.
+what is kubernetes,An orchestration tool for automating container deployment.
+what is serverless computing,A cloud model where the provider manages server infrastructure.
+what is an api,An interface allowing software applications to communicate.
+what is a rest api,An API following REST architectural principles for web services.
+what is graphql,A query language for APIs providing flexible data retrieval.
+what is web3,The next generation of the internet emphasizing decentralization.
+what is the metaverse,A collective virtual shared space on the internet.
+what is an nft,A Non-Fungible Token representing unique digital ownership.
+what is cryptocurrency,A digital currency secured by cryptography.
+what is open source software,Software with publicly available source code for anyone to use.
+what is saas,Software as a Service delivered over the internet.
+what is paas,Platform as a Service for building applications in the cloud.
+what is iaas,Infrastructure as a Service providing virtualized computing resources.
+what is a vpn,A Virtual Private Network encrypting your internet connection.
+what is a firewall,A security system monitoring network traffic.
+what is encryption,Converting data into a coded format for security.
+what is malware,Malicious software designed to damage or exploit systems.
+what is phishing,A cyberattack tricking users into revealing sensitive information.
+what is ransomware,Malware that encrypts data and demands payment for release.
+what are biometrics,Authentication using unique biological characteristics.
+what is a drone,An unmanned aircraft controlled remotely or autonomously.
+what is 3d printing,Creating three-dimensional objects from digital models.
+what are autonomous vehicles,Self-driving vehicles using sensors and AI for navigation.
+what is a smart home,A home with internet-connected devices for automation.
+what are wearable devices,Smart electronic devices worn on the body.
+what is nanotechnology,Manipulating matter at the molecular and atomic scale.
+what is biotechnology,Using biological systems to develop products and technologies.
+what is rpa,Robotic Process Automation for automating repetitive tasks.
+what is a digital twin,A virtual replica of a physical object or system.
+what is agile methodology,An iterative approach to software development and project management.
+what is an ip address,A unique numerical label identifying a device on a network.
+what is dns,The Domain Name System translating domain names to IP addresses.
+what is http protocol,The protocol used for transmitting web pages on the internet.
+what is https,A secure version of HTTP using encryption.
+what is bandwidth,The maximum rate of data transfer across a network.
+what is latency,The delay between sending and receiving data.
+what is an operating system,Software managing computer hardware and software resources.
+what is linux,A free open-source operating system based on Unix.
+what is a cpu,The Central Processing Unit that executes program instructions.
+what is a gpu,A Graphics Processing Unit optimized for parallel computations.
+what is ram,Random Access Memory for temporary data storage.
+what is ssd,A Solid State Drive using flash memory for fast storage.
+what is a database,An organized collection of structured data.
+what is the capital of france,The capital of France is Paris.
+who wrote hamlet,William Shakespeare wrote Hamlet.
+what is the largest planet,Jupiter is the largest planet in our solar system.
+what is the smallest continent,Australia is the smallest continent.
+what is the fastest animal,The cheetah is the fastest land animal.
+who painted the mona lisa,Leonardo da Vinci painted the Mona Lisa.
+what is the boiling point of water,Water boils at 100 degrees Celsius.
+what is the freezing point of water,Water freezes at 0 degrees Celsius.
+what is the tallest mountain,Mount Everest is the tallest mountain above sea level.
+what is the longest river,The Nile is traditionally considered the longest river.
+how many continents are there,There are seven continents on Earth.
+how many oceans are there,There are five oceans on Earth.
+what is the largest ocean,The Pacific Ocean is the largest ocean.
+who was the first man on the moon,Neil Armstrong was the first person on the moon.
+what is the speed of light,The speed of light is approximately 299792 km per second.
+what is h2o,H2O is the chemical formula for water.
+what is the chemical symbol for gold,The chemical symbol for gold is Au.
+what is the hardest natural substance,Diamond is the hardest natural substance.
+who invented the telephone,Alexander Graham Bell is credited with inventing the telephone.
+who discovered gravity,Isaac Newton formulated the law of universal gravitation.
+what is the largest mammal,The blue whale is the largest mammal.
+how many colors in a rainbow,There are seven colors in a rainbow.
+what is the main gas in the atmosphere,Nitrogen makes up about 78 percent of Earth's atmosphere.
+who wrote harry potter,J.K. Rowling wrote the Harry Potter series.
+what is the capital of japan,The capital of Japan is Tokyo.
+what is the capital of italy,The capital of Italy is Rome.
+what is the capital of canada,The capital of Canada is Ottawa.
+what is the capital of australia,The capital of Australia is Canberra.
+what is the largest country by area,Russia is the largest country by area.
+what is the currency of the uk,The currency of the UK is the Pound Sterling.
+how many bones in the human body,An adult human body has 206 bones.
+which planet is called the red planet,Mars is known as the Red Planet.
+who discovered penicillin,Alexander Fleming discovered penicillin.
+what is the tallest animal,The giraffe is the tallest animal.
+which gas do plants absorb,Plants absorb carbon dioxide from the atmosphere.
+who painted the starry night,Vincent van Gogh painted The Starry Night.
+what is the square root of 144,The square root of 144 is 12.
+how many days in a leap year,A leap year has 366 days.
+what is the smallest country,Vatican City is the smallest country in the world.
+what is the main ingredient in bread,Flour is the main ingredient in bread.
+who was the first us president,George Washington was the first US president.
+how many rings on the olympic flag,There are five rings on the Olympic flag.
+what is the capital of spain,The capital of Spain is Madrid.
+what is the currency of japan,The currency of Japan is the Yen.
+what is the chemical symbol for sodium,The chemical symbol for sodium is Na.
+how many sides does a hexagon have,A hexagon has six sides.
+what is the largest organ in the body,The skin is the largest organ in the human body.
+who is the father of computers,Charles Babbage is known as the father of computers.
+what is the deepest ocean trench,The Mariana Trench is the deepest point in the ocean.
+what is the capital of egypt,The capital of Egypt is Cairo.
+what is the longest bone in the body,The femur is the longest bone in the human body.
+who wrote pride and prejudice,Jane Austen wrote Pride and Prejudice.
+how many weeks in a year,There are 52 weeks in a year.
+what is the capital of germany,The capital of Germany is Berlin.
+what is the chemical symbol for iron,The chemical symbol for iron is Fe.
+what is the largest bird,The ostrich is the largest living bird.
+what is photosynthesis,The process by which plants convert sunlight into energy.
+what is education,The process of acquiring knowledge skills and values.
+what is mathematics,The study of numbers quantity shapes and patterns.
+what is physics,The science of matter energy and their interactions.
+what is chemistry,The science of the composition and properties of substances.
+what is biology,The scientific study of living organisms and life processes.
+what is history,The study and record of past events and civilizations.
+what is geography,The study of Earth's landscapes and environments.
+what is literature,Written works of artistic and intellectual value.
+what is computer science,The study of computation algorithms and information systems.
+what is economics,The study of production distribution and consumption of goods.
+what is psychology,The scientific study of the mind and behavior.
+what is philosophy,The study of fundamental questions about existence and knowledge.
+what is astronomy,The scientific study of celestial objects and the universe.
+what is algebra,A branch of mathematics using symbols to represent numbers.
+what is geometry,The branch of mathematics dealing with shapes and space.
+what is calculus,The mathematical study of rates of change and accumulation.
+what is statistics,The science of collecting analyzing and interpreting data.
+what is anatomy,The study of the structure of living organisms.
+what is ecology,The study of how organisms interact with their environment.
+what is genetics,The study of genes heredity and genetic variation.
+what is ethics in education,The study of moral principles and right conduct.
+what is pedagogy,The art and science of teaching and education methods.
+what is a curriculum,A structured plan of subjects and learning experiences.
+what is a syllabus,An outline of topics covered in a course.
+what is a degree in education,An academic qualification awarded upon completing a program.
+what is a diploma,A certificate awarded for completing a course of study.
+what is a scholarship,Financial aid awarded to students based on merit or need.
+what is a gpa,Grade Point Average measuring academic performance.
+what is plagiarism,Presenting someone else's work as your own without credit.
+what is e-learning,Education delivered through digital platforms and the internet.
+what is distance learning,Studying remotely without being physically present in class.
+what is stem education,Education focused on Science Technology Engineering and Math.
+what is critical thinking,The ability to analyze and evaluate information objectively.
+what is a thesis in education,A research document written to earn an academic degree.
+what is peer review,Evaluation of work by others in the same field.
+what is coding,The process of writing instructions for computers to execute.
+what is programming,Designing building and testing executable computer programs.
+what is a programming language,A formal language used to communicate instructions to a computer.
+what is syntax in coding,The rules that define the structure of valid code.
+what is a compiler,A program that translates source code into machine code.
+what is an interpreter,A program that executes code line by line.
+what is debugging,The process of finding and fixing errors in code.
+what is an ide,An Integrated Development Environment for writing code.
+what is version control,A system for tracking and managing changes to code.
+what is git,A distributed version control system for tracking code changes.
+what is github,A web platform for hosting and collaborating on Git repositories.
+what is a data structure,A way of organizing and storing data efficiently.
+what is a variable in coding,A named container that holds a value in a program.
+what is a loop in coding,A control structure that repeats a block of code.
+what is an array,An ordered collection of elements accessible by index.
+what is recursion in coding,A technique where a function calls itself to solve a problem.
+what is an api in coding,An interface allowing different software systems to communicate.
+what is a framework in coding,A pre-built structure providing reusable code for development.
+what is a library in coding,A collection of pre-written code for common tasks.
+what is frontend development,Building the visual and interactive parts of a website.
+what is backend development,Building the server-side logic and database operations.
+what is full stack development,Working on both frontend and backend of an application.
+what is sql,Structured Query Language for managing relational databases.
+what is nosql,A database approach for unstructured or semi-structured data.
+what is html,HyperText Markup Language for structuring web content.
+what is css,Cascading Style Sheets for styling web pages.
+what is javascript,A programming language for creating interactive web pages.
+what is java,A widely-used object-oriented programming language.
+what is c++,A powerful general-purpose programming language.
+what is rust language,A systems programming language focused on safety and performance.
+what is typescript,A typed superset of JavaScript that compiles to plain JavaScript.
+what is go language,A compiled programming language designed at Google for simplicity.
+what is swift language,A programming language by Apple for iOS and macOS development.
+what is kotlin language,A modern programming language for Android development.
+what is ruby language,A dynamic interpreted programming language focused on simplicity.
+what is php,A server-side scripting language for web development.
+what is a comment in code,Text in source code ignored by the compiler for documentation.
+what is refactoring,Restructuring existing code without changing its external behavior.
+what is unit testing,Testing individual components of code in isolation.
+what is a bug in code,An error or flaw in a program causing incorrect behavior.
+what is agile development,An iterative approach to software development with frequent releases.
+what is object oriented programming,A paradigm organizing code around objects and classes.
+what is functional programming,A paradigm treating computation as evaluation of mathematical functions.
+what is a stack in coding,A last-in first-out data structure.
+what is a queue in coding,A first-in first-out data structure.
+what is a linked list,A linear data structure where elements point to the next node.
+what is a hash table,A data structure mapping keys to values for fast lookup.
+what is binary search,An efficient algorithm for finding items in a sorted list.
+what is sorting in coding,Arranging data elements in a particular order.
+what is big o notation,A notation describing the performance of an algorithm.
+what is a pointer,A variable that stores the memory address of another variable.
+what is memory management,The process of controlling and coordinating computer memory.
+what is multithreading,Executing multiple threads concurrently within a program.
+what is an abstract class,A class that cannot be instantiated and serves as a base.
+what is an interface in coding,A contract specifying methods a class must implement.
+what is dependency injection,A technique where objects receive their dependencies externally.
+what is continuous integration,Automatically building and testing code changes frequently.
+what is continuous deployment,Automatically releasing code changes to production.
+what is a token in nlp,A basic unit of text such as a word or subword.
+what is word embedding,A vector representation of words capturing semantic meaning.
+what is word2vec,A technique to produce word embeddings from large text corpora.
+what is attention mechanism,A technique allowing models to focus on relevant input parts.
+what is bert,Bidirectional Encoder Representations from Transformers for NLP.
+what is gpt,Generative Pre-trained Transformer for text generation.
+what is fine tuning,Adapting a pre-trained model to a specific task with new data.
+what is data preprocessing,Cleaning and transforming raw data before analysis.
+what is feature scaling,Adjusting the range of features to a common scale.
+what is a perceptron,The simplest type of artificial neural network.
+what is a hidden layer,A layer between input and output in a neural network.
+what is deep neural network,A neural network with multiple hidden layers.
+what is model deployment,Making a trained model available for real-world use.
+what is a chatbot,A software application simulating human conversation.
+what is speech recognition,Converting spoken language into text using AI.
+what is sentiment analysis,Determining the emotional tone of a piece of text.
+what is image classification,Assigning a label to an image based on its content.
+what is object detection,Identifying and locating objects within an image.
+what is semantic segmentation,Classifying each pixel of an image into a category.
+what is data pipeline,A set of processes moving data from source to destination.
+what is a tensor,A multi-dimensional array used in deep learning computations.
+what is gpu computing,Using graphics processing units for general-purpose computation.
+what is model accuracy,How often a model correctly predicts the outcome.
+what is the capital of india,The capital of India is New Delhi.
+what is the capital of china,The capital of China is Beijing.
+what is the capital of brazil,The capital of Brazil is Brasilia.
+what is the capital of russia,The capital of Russia is Moscow.
+what is the capital of south korea,The capital of South Korea is Seoul.
+how many planets in the solar system,There are eight planets in our solar system.
+what is the closest star to earth,The Sun is the closest star to Earth.
+what is gravity,A force that attracts objects with mass toward each other.
+what is evolution,The process of biological change over successive generations.
+what is the periodic table,A tabular arrangement of chemical elements by atomic number.
+what is dna,Deoxyribonucleic acid carrying genetic instructions for life.
+what is an atom,The smallest unit of ordinary matter forming a chemical element.
+what is a molecule,Two or more atoms bonded together.
+what is the internet,A global network of interconnected computer networks.
+what is wifi,A wireless networking technology using radio waves.
+what is bluetooth,A short-range wireless technology for exchanging data.
+what is machine code,Low-level instructions executed directly by a computer CPU.
+what is pseudocode,An informal description of a program's logic in plain language.
+what is pair programming,Two programmers working together at one workstation.
+what is code review,Systematic examination of source code by peers.
+what is technical debt,The cost of rework caused by choosing quick solutions over better approaches.
+what's good,All good here! How can I help?
+how's it going,It is going great! What do you need?
+hey there,Hey! How can I assist you today?
+what's happening,Not much! Ready to answer your questions.
+bonjour,Bonjour! That means hello in French.
+hola,Hola! That means hello in Spanish.
+namaste,Namaste! How can I help you?
+salaam,Salaam! Peace be with you.
+aloha,Aloha! How can I assist?
+ciao,Ciao! That means hello in Italian.
+konnichiwa,Konnichiwa! That means hello in Japanese.
+what is up,Just here to help! What do you need?
+how's everything,Everything is wonderful! How about you?
+you there,Yes I am here! How can I help?
+anyone there,Yes I am here and ready to assist.
+are you available,I am always available to help you.
+help me,Of course! What do you need help with?
+i need help,Sure! Tell me what you need.
+assist me,I am happy to assist! What is your question?
+can you answer my question,Yes I will try my best to answer.
+what do you know,I know about AI Python coding technology and more.
+are you free,I am always free to help you.
+tell me something,Sure! Ask me anything you want to know.
+what should i ask,You can ask about AI Python coding or general knowledge.
+talk to me,I am here! What would you like to talk about?
+i am bored,Let me help with something interesting! Ask me a question.
+cheer me up,Here is a fun fact: octopuses have three hearts!
+inspire me,Believe you can and you are halfway there.
+motivate me,Every expert was once a beginner. Keep going!
+good to talk to you,Good to talk to you too!
+it was nice chatting,Nice chatting with you too! Come back anytime.
+i will be back,I will be here waiting!
+see you tomorrow,See you tomorrow! Have a great day.
+until next time,Until next time! Take care.
+later,Later! Have a good one.
+ttyl,Talk to you later!
+brb,Sure take your time!
+what is python used for,Python is used for web development data science AI automation and more.
+is python easy to learn,Yes Python is considered one of the easiest languages to learn.
+who created python,Guido van Rossum created Python in 1991.
+what is pep 8,PEP 8 is the style guide for writing Python code.
+what is pep 20,PEP 20 is The Zen of Python containing guiding principles.
+what is anaconda python,Anaconda is a distribution of Python for data science.
+what is jupyter notebook,An interactive web-based environment for writing Python code.
+what is a python script,A file containing Python code saved with a .py extension.
+what is python 3,The current major version of the Python programming language.
+what is a magic method,Special methods in Python with double underscores like __str__.
+what is __name__ in python,A built-in variable that is __main__ when the script is run directly.
+what is __str__ in python,A method that returns a human-readable string of an object.
+what is __repr__ in python,A method that returns an unambiguous string representation of an object.
+what is a property in python,A way to define managed attributes using decorators.
+what is abc in python,The Abstract Base Classes module for defining interfaces.
+what is collections in python,A module providing specialized container data types.
+what is os module in python,A module providing functions for interacting with the operating system.
+what is sys module in python,A module providing access to Python interpreter variables and functions.
+what is json in python,A module for encoding and decoding JSON data.
+what is csv module in python,A module for reading and writing CSV files.
+what is datetime in python,A module for manipulating dates and times.
+what is re module in python,A module for working with regular expressions.
+what is threading in python,A module for running code concurrently using threads.
+what is multiprocessing in python,A module for running code in parallel using separate processes.
+what is asyncio in python,A library for writing concurrent code using async and await.
+what is a context manager,An object that defines runtime context using enter and exit methods.
+what is unpacking in python,Extracting values from iterables into separate variables.
+what is slicing in python,Extracting a portion of a sequence using start stop and step.
+what is a nested function,A function defined inside another function.
+what is a closure in python,A nested function that remembers values from its enclosing scope.
+what is walrus operator,The assignment expression operator := introduced in Python 3.8.
+what is type hinting,Adding optional type annotations to function parameters and returns.
+what is dataclass in python,A decorator that auto-generates special methods for a class.
+what is a named tuple,A tuple subclass with named fields for better readability.
+what is defaultdict,A dictionary subclass that provides default values for missing keys.
+what is counter in python,A dictionary subclass for counting hashable objects.
+what is deque in python,A double-ended queue supporting efficient append and pop from both ends.
+what is pickle in python,A module for serializing and deserializing Python objects.
+what is copy in python,A module providing shallow and deep copy operations.
+what is itertools in python,A module providing fast memory-efficient iteration tools.
+what is functools in python,A module for higher-order functions operating on other functions.
+what is pathlib in python,A module for object-oriented filesystem path handling.
+what is logging in python,A module for tracking events during program execution.
+what is unittest in python,A built-in module for writing and running tests.
+what is pytest,A popular third-party testing framework for Python.
+what is requests library,A Python library for making HTTP requests easily.
+what is beautifulsoup,A Python library for parsing HTML and XML documents.
+what is selenium in python,A library for automating web browser interactions.
+what is streamlit,A Python framework for building data science web apps quickly.
+what is fastapi,A modern high-performance Python web framework for building APIs.
+what is sqlalchemy,A Python SQL toolkit and Object-Relational Mapping library.
+what is opencv in python,A library for computer vision and image processing.
+what is pillow in python,A Python library for opening and manipulating image files.
+what is seaborn,A statistical data visualization library built on matplotlib.
+what is plotly,A Python library for creating interactive visualizations.
+what is huggingface,A platform and library for state-of-the-art NLP models.
+what is ai bias,Systematic prejudice in AI outputs caused by biased training data.
+what is explainable ai,AI systems whose decisions can be understood by humans.
+what is federated learning,Training AI models across decentralized devices without sharing data.
+what is few-shot learning,Learning from a very small number of training examples.
+what is self-supervised learning,Learning representations from unlabeled data using pretext tasks.
+what is multi-task learning,Training a model on multiple related tasks simultaneously.
+what is meta-learning,Teaching models to learn how to learn new tasks quickly.
+what is neural architecture search,Using AI to automatically design neural network architectures.
+what is knowledge distillation,Transferring knowledge from a large model to a smaller model.
+what is model pruning,Removing unnecessary parameters from a neural network.
+what is model quantization,Reducing the precision of model weights to decrease size.
+what is edge ai,Running AI algorithms locally on edge devices.
+what is ai in healthcare,Using AI for diagnosis drug discovery and patient care.
+what is ai in finance,Using AI for fraud detection trading and risk assessment.
+what is ai in education,Using AI for personalized learning and automated grading.
+what is autonomous ai,AI systems that can operate independently without human input.
+what is conversational ai,AI that can engage in human-like dialogue.
+what is recommendation system,A system suggesting relevant items to users based on preferences.
+what is natural language generation,AI generating human-readable text from structured data.
+what is named entity recognition,Identifying and classifying named entities in text.
+what is text classification,Assigning categories to text documents automatically.
+what is machine translation,Automatically translating text from one language to another.
+what is question answering system,An AI system that answers questions posed in natural language.
+what is text summarization,Automatically creating a condensed version of a text document.
+what is speech synthesis,Converting text into spoken audio using AI.
+what is face recognition,Identifying or verifying a person from their facial features.
+what is pose estimation,Detecting the position and orientation of a human body.
+what is anomaly detection,Identifying unusual patterns that deviate from expected behavior.
+what is time series forecasting,Predicting future values based on historical time-ordered data.
+what is data labeling,Adding informative tags to raw data for supervised learning.
+what is synthetic data,Artificially generated data that mimics real-world data.
+what is a diffusion model,A generative model learning to create data by reversing noise.
+what is stable diffusion,An open-source AI model for generating images from text prompts.
+what is dall-e,An AI model by OpenAI that generates images from text descriptions.
+what is midjourney,An AI program that generates images from natural language prompts.
+what is openai,An AI research organization behind ChatGPT and GPT models.
+what is chatgpt,An AI chatbot developed by OpenAI using large language models.
+what is responsible ai,Developing and deploying AI in an ethical and accountable manner.
+what is a training loop,The iterative process of feeding data and updating model weights.
+what is inference in ai,Using a trained model to make predictions on new data.
+what is model evaluation,Assessing a model's performance using metrics and test data.
+what is stratified sampling,Sampling that maintains the proportion of classes in each split.
+what is k-fold cross validation,Dividing data into k subsets and training k times rotating the test set.
+what is leave one out cv,Cross validation where each sample is used once as a test set.
+what is r squared,A metric measuring how well a regression model fits the data.
+what is mae,Mean Absolute Error measuring average prediction errors.
+what is rmse,Root Mean Squared Error penalizing large prediction errors.
+what is log loss,A loss function measuring the performance of a classification model.
+what is silhouette score,A metric measuring how similar a point is to its own cluster.
+what is elbow method,A technique for finding the optimal number of clusters.
+what is t-sne,A technique for visualizing high-dimensional data in 2D or 3D.
+what is umap,Uniform Manifold Approximation for dimensionality reduction.
+what is lasso regression,Linear regression with L1 regularization for feature selection.
+what is ridge regression,Linear regression with L2 regularization to prevent overfitting.
+what is elastic net,A regression combining L1 and L2 regularization penalties.
+what is stochastic gradient descent,Gradient descent updating weights using one sample at a time.
+what is mini batch gradient descent,Gradient descent using small batches of samples per update.
+what is learning rate scheduling,Adjusting the learning rate during training for better convergence.
+what is momentum in optimization,Accelerating gradient descent by considering previous updates.
+what is vanishing gradient problem,When gradients become too small for effective learning in deep networks.
+what is exploding gradient problem,When gradients become too large causing unstable training.
+what is gradient clipping,Limiting gradient values to prevent the exploding gradient problem.
+what is residual network,A deep network using skip connections to ease training.
+what is u-net,A convolutional network architecture used for image segmentation.
+what is yolo,You Only Look Once a real-time object detection algorithm.
+what is vgg,A deep CNN architecture known for using small convolutional filters.
+what is inception network,A CNN architecture using multiple filter sizes in parallel.
+what is mobilenet,A lightweight CNN designed for mobile and embedded devices.
+what is efficientnet,A CNN architecture that scales depth width and resolution.
+what is variational autoencoder,A generative model learning a latent representation of data.
+what is contrastive learning,Learning representations by comparing similar and dissimilar pairs.
+what is curriculum learning,Training a model with gradually increasing difficulty of examples.
+what is label smoothing,A technique replacing hard labels with soft probability distributions.
+what is mixup augmentation,Creating new training data by blending pairs of examples.
+what is a data warehouse,A central repository for integrated data from multiple sources.
+what is a data lake,A storage system holding vast amounts of raw data.
+what is etl,Extract Transform Load process for data integration.
+what is apache spark,An open-source engine for large-scale data processing.
+what is hadoop,An open-source framework for distributed storage and processing.
+what is apache kafka,A distributed event streaming platform for real-time data.
+what is terraform,An infrastructure as code tool for building cloud resources.
+what is ansible,An open-source automation tool for configuration management.
+what is ci cd pipeline,Automated workflows for building testing and deploying code.
+what is infrastructure as code,Managing infrastructure through machine-readable configuration files.
+what is site reliability engineering,A discipline applying software engineering to operations problems.
+what is chaos engineering,Testing system resilience by introducing controlled failures.
+what is observability,The ability to measure a system's state from its outputs.
+what is monitoring in tech,Tracking system performance and health in real time.
+what is load balancing,Distributing network traffic across multiple servers.
+what is caching,Storing frequently accessed data for faster retrieval.
+what is cdn,A Content Delivery Network distributing content closer to users.
+what is websocket,A protocol providing full-duplex communication over a single connection.
+what is oauth,An open standard for access delegation and authorization.
+what is jwt,JSON Web Token used for securely transmitting information.
+what is ssl,Secure Sockets Layer for encrypted communication.
+what is tls,Transport Layer Security the successor to SSL.
+what is cors,Cross-Origin Resource Sharing allowing restricted resources on a web page.
+what is csrf,Cross-Site Request Forgery a web security vulnerability.
+what is xss,Cross-Site Scripting injecting malicious scripts into web pages.
+what is sql injection,A code injection technique exploiting SQL query vulnerabilities.
+what is ddos attack,Distributed Denial of Service overwhelming a server with traffic.
+what is two factor authentication,A security process requiring two forms of identification.
+what is zero trust security,A security model that never trusts and always verifies.
+what is penetration testing,Simulating cyberattacks to identify security vulnerabilities.
+what is ethical hacking,Authorized hacking to find and fix security vulnerabilities.
+what is a neural processing unit,A specialized chip designed for accelerating AI workloads.
+what is tpu,A Tensor Processing Unit designed by Google for machine learning.
+what is fpga,Field Programmable Gate Array a configurable integrated circuit.
+what is moore's law,The observation that transistor count doubles approximately every two years.
+what is 6g,The anticipated sixth generation of wireless technology.
+what is li-fi,A wireless technology using light for data transmission.
+what is mesh networking,A network where devices connect directly and dynamically.
+what is digital literacy,The ability to use digital technology effectively.
+what is computational thinking,Problem-solving using concepts fundamental to computing.
+what is gamification in education,Using game elements in educational contexts to increase engagement.
+what is blended learning,Combining online digital media with traditional classroom methods.
+what is flipped classroom,Students study material at home and do activities in class.
+what is project based learning,Learning through actively exploring real-world problems.
+what is montessori method,A child-centered educational approach based on self-directed activity.
+what is bloom's taxonomy,A classification of educational learning objectives into levels.
+what is formative assessment,Ongoing assessment during the learning process to monitor progress.
+what is summative assessment,Assessment at the end of a learning period to evaluate outcomes.
+what is rubric in education,A scoring guide used to evaluate student work quality.
+what is iq,Intelligence Quotient a measure of intellectual ability.
+what is emotional intelligence,The ability to understand and manage emotions effectively.
+what is lifelong learning,Ongoing voluntary pursuit of knowledge throughout life.
+what is vocational education,Training focused on practical skills for a specific occupation.
+what is special education,Tailored instruction for students with learning disabilities or needs.
+what is inclusive education,Ensuring all students regardless of ability learn together.
+what is academic integrity,Maintaining honesty and responsibility in academic work.
+what is a research paper,A formal document presenting original research findings.
+what is a bibliography,A list of sources referenced in a research work.
+what is a citation,A reference to a published or unpublished source.
+what is apa format,A citation style by the American Psychological Association.
+what is mla format,A citation style by the Modern Language Association.
+what is a literature review,A survey of scholarly sources on a specific topic.
+what is a case study,An in-depth investigation of a single subject or group.
+what is hypothesis,A proposed explanation made as a starting point for investigation.
+what is qualitative research,Research focused on understanding concepts and experiences.
+what is quantitative research,Research focused on numerical data and statistical analysis.
+what is an abstract in research,A brief summary of a research paper or article.
+what is a design pattern,A reusable solution to a commonly occurring software problem.
+what is mvc pattern,Model-View-Controller separating data presentation and logic.
+what is singleton pattern,A pattern ensuring a class has only one instance.
+what is factory pattern,A pattern creating objects without specifying the exact class.
+what is observer pattern,A pattern where objects are notified of state changes.
+what is strategy pattern,A pattern defining a family of interchangeable algorithms.
+what is solid principles,Five design principles for maintainable object-oriented software.
+what is dry principle,Do not Repeat Yourself avoiding code duplication.
+what is kiss principle,Keep It Simple Stupid favoring simplicity in design.
+what is yagni principle,You Ain't Gonna Need It avoid premature feature development.
+what is clean code,Code that is easy to read understand and maintain.
+what is code smell,A surface indication of a deeper problem in code.
+what is a monolith,A single unified software application with all components together.
+what is event driven architecture,A pattern where system behavior is determined by events.
+what is domain driven design,A software design approach focusing on the core business domain.
+what is test driven development,Writing tests before writing the code to pass them.
+what is behavior driven development,Extending TDD with natural language test descriptions.
+what is continuous monitoring,Ongoing observation of systems for performance and security.
+what is a load test,Testing how a system performs under expected user load.
+what is a stress test,Testing how a system behaves under extreme conditions.
+what is an orm,Object-Relational Mapping bridging objects and database tables.
+what is a migration in coding,Scripts that modify database schema over time.
+what is a webhook,An HTTP callback triggered by an event in a system.
+what is a cron job,A scheduled task that runs automatically at specified times.
+what is a daemon,A background process running without user interaction.
+what is a shell,A command-line interface for interacting with the operating system.
+what is bash,A Unix shell and command language for scripting.
+what is powershell,A task automation framework by Microsoft with a command-line shell.
+what is regex,Regular expressions defining search patterns for text matching.
+what is a build tool,Software automating the process of compiling and packaging code.
+what is webpack,A module bundler for JavaScript applications.
+what is npm,Node Package Manager for installing JavaScript packages.
+what is yarn,A fast reliable alternative package manager for JavaScript.
+what is a package manager,A tool that automates installing and managing software dependencies.
+what is linting,Analyzing code for potential errors and style issues.
+what is prettier,A code formatter enforcing consistent style automatically.
+what is eslint,A pluggable linting utility for JavaScript and TypeScript.
+what is docker compose,A tool for defining and running multi-container Docker applications.
+what is a virtual machine,Software emulating a complete computer system.
+what is a hypervisor,Software creating and managing virtual machines.
+what is containerization,Packaging applications with their dependencies into containers.
+what is a binary tree,A tree data structure where each node has at most two children.
+what is a graph data structure,A collection of nodes connected by edges.
+what is breadth first search,An algorithm exploring all neighbors at the current depth first.
+what is depth first search,An algorithm exploring as far as possible along each branch first.
+what is dynamic programming,Solving complex problems by breaking them into overlapping subproblems.
+what is a greedy algorithm,An algorithm making the locally optimal choice at each step.
+what is merge sort,A divide-and-conquer sorting algorithm with O(n log n) complexity.
+what is quick sort,An efficient sorting algorithm using a pivot element to partition.
+what is bubble sort,A simple sorting algorithm comparing adjacent elements repeatedly.
+what is insertion sort,A sorting algorithm building the sorted array one item at a time.
+what is a heap data structure,A tree-based structure where parent nodes follow a heap property.
+what is a trie,A tree structure used for efficient string searching and storage.
+what is memoization,Caching function results to avoid redundant computations.
+what is time complexity,A measure of how runtime grows relative to input size.
+what is space complexity,A measure of how memory usage grows relative to input size.
+what is amortized analysis,Averaging the time of operations over a sequence of operations.
+what is a race condition in code,A bug where behavior depends on the timing of uncontrolled events.
+what is a deadlock,A state where two or more processes block each other indefinitely.
+what is a semaphore,A synchronization primitive controlling access to shared resources.
+what is a mutex,A mutual exclusion lock preventing concurrent access to a resource.
+what is concurrency in coding,Managing multiple tasks making progress within overlapping time.
+what is parallelism in coding,Executing multiple tasks simultaneously on multiple processors.
+what is garbage collection,Automatic memory management reclaiming unused memory.
+what is the great wall of china,A series of fortifications built along northern China.
+what is the pythagorean theorem,In a right triangle a squared plus b squared equals c squared.
+who invented electricity,Benjamin Franklin is famous for his experiments with electricity.
+what is the formula for area of a circle,The area of a circle is pi times radius squared.
+what is pi,Pi is approximately 3.14159 representing the ratio of circumference to diameter.
+what is democracy,A system of government where power is vested in the people.
+what is the united nations,An international organization promoting peace and cooperation.
+who invented the light bulb,Thomas Edison is credited with inventing the practical light bulb.
+what is the milky way,The galaxy containing our solar system.
+how far is the moon from earth,The moon is approximately 384400 kilometers from Earth.
+what is the great barrier reef,The world's largest coral reef system off the coast of Australia.
+what is climate change,Long-term changes in temperature and weather patterns.
+what is the greenhouse effect,Trapping of heat in Earth's atmosphere by greenhouse gases.
+what is renewable energy,Energy from sources that are naturally replenished like solar and wind.
+what is solar energy,Energy harnessed from the sun using solar panels.
+what is wind energy,Energy generated by converting wind into electricity.
+what causes earthquakes,Sudden release of energy in Earth's crust causing seismic waves.
+what causes volcanoes to erupt,Magma rising to the surface due to pressure buildup underground.
+what is the amazon rainforest,The largest tropical rainforest located in South America.
+what is the sahara desert,The largest hot desert in the world located in North Africa.
+what is the bermuda triangle,A region in the Atlantic Ocean known for mysterious disappearances.
+who wrote romeo and juliet,William Shakespeare wrote Romeo and Juliet.
+who was albert einstein,A physicist who developed the theory of relativity.
+what is e equals mc squared,Einstein's equation relating energy mass and the speed of light.
+what is the theory of relativity,Einstein's theory describing the relationship between space and time.
+what is an ecosystem,A community of living organisms interacting with their environment.
+what is biodiversity,The variety of life forms in a particular habitat or ecosystem.
+what is the water cycle,The continuous movement of water through Earth's systems.
+what is the food chain,A series of organisms each dependent on the next as a source of food.
+what is the ph scale,A scale measuring how acidic or basic a substance is from 0 to 14.
+what is the speed of sound,Approximately 343 meters per second in air at room temperature.
+what is a black hole,A region of space where gravity is so strong nothing can escape.
+what is a supernova,A powerful explosion marking the death of a massive star.
+what is a light year,The distance light travels in one year about 9.46 trillion kilometers.
+what is the big bang theory,The leading theory explaining the origin of the universe.
+what is a constellation,A group of stars forming a recognizable pattern in the sky.
+what is the fibonacci sequence,A series where each number is the sum of the two preceding ones.
+what are prime numbers,Numbers greater than 1 divisible only by 1 and themselves.
+what is the golden ratio,Approximately 1.618 found in nature art and architecture.
+what is a vaccine,A biological preparation providing immunity against a disease.
+what is an antibiotic,A medicine used to treat bacterial infections.
+what is the human genome,The complete set of genetic information in a human being.
+what is stem cell,An undifferentiated cell that can develop into specialized cells.
+what is an isotope,Atoms of the same element with different numbers of neutrons.
+what is a catalyst,A substance that speeds up a chemical reaction without being consumed.
+what is entropy,A measure of disorder or randomness in a system.
+what is kinetic energy,The energy an object possesses due to its motion.
+what is potential energy,Stored energy based on an object's position or configuration.
+what is the electromagnetic spectrum,The range of all types of electromagnetic radiation.
+what is a semiconductor,A material with conductivity between a conductor and an insulator.
+what is fiber optics,Technology using thin glass fibers to transmit data as light.
+what is a transistor,A semiconductor device used to amplify or switch electronic signals.
+what is a microprocessor,An integrated circuit that contains the functions of a CPU.
+what is embedded systems,Computer systems designed for specific dedicated functions.
+what is real time operating system,An OS that processes data as it comes in within a time constraint.
+what is the osi model,A seven-layer model describing how network communication works.
+what is tcp ip,The fundamental communication protocol suite of the internet.
+what is a subnet mask,A number distinguishing the network and host portions of an IP address.
+what is nat,Network Address Translation mapping private IPs to public IPs.
+what is dhcp,Dynamic Host Configuration Protocol assigning IP addresses automatically.
+what is ftp,File Transfer Protocol for transferring files between systems.
+what is ssh,Secure Shell a protocol for secure remote access to systems.
+what is smtp,Simple Mail Transfer Protocol for sending email messages.
+what is imap,Internet Message Access Protocol for receiving email messages.
+what is a proxy server,An intermediary server between a client and the internet.
+what is a reverse proxy,A server that forwards requests to backend servers on behalf of clients.
+what is a socket in networking,An endpoint for communication between two machines.
+what is a port number,A numerical identifier for a specific process or service on a system.
+what is network topology,The arrangement of elements in a computer network.
+what is a switch in networking,A device connecting multiple devices on a local network.
+what is a router,A device forwarding data packets between computer networks.
+what is a protocol,A set of rules governing data communication.
+what is packet switching,A method of data transmission where data is broken into packets.
+what is a relational database,A database organizing data into tables with rows and columns.
+what is acid in databases,Atomicity Consistency Isolation Durability properties of transactions.
+what is a primary key,A unique identifier for each record in a database table.
+what is a foreign key,A field in one table that refers to the primary key of another.
+what is indexing in databases,Creating data structures to improve query retrieval speed.
+what is a stored procedure,A prepared SQL code saved for reuse in a database.
+what is a database trigger,A procedure automatically executed in response to a database event.
+what is mongodb,A popular NoSQL document-oriented database.
+what is postgresql,An advanced open-source relational database management system.
+what is mysql,An open-source relational database management system.
+what is redis,An in-memory data structure store used as a database and cache.
+what is elasticsearch,A distributed search and analytics engine.
+what is data normalization,Organizing data to reduce redundancy and improve integrity.
+what is denormalization,Adding redundancy to a database to improve read performance.
+what is a view in sql,A virtual table based on the result of a SQL query.
+what is a join in sql,Combining rows from two or more tables based on a related column.
+what is an inner join,Returns only matching rows from both tables.
+what is a left join,Returns all rows from the left table and matching rows from the right.
+what is group by in sql,Grouping rows sharing a property to apply aggregate functions.
+what is having in sql,Filtering groups after GROUP BY based on aggregate conditions.
+what is a subquery,A query nested inside another SQL query.
+what is react,A JavaScript library for building user interfaces by Meta.
+what is angular,A TypeScript-based web application framework by Google.
+what is vue.js,A progressive JavaScript framework for building user interfaces.
+what is svelte,A compiler-based JavaScript framework for building fast web apps.
+what is next.js,A React framework for server-side rendering and static sites.
+what is node.js,A JavaScript runtime built on Chrome's V8 engine for server-side code.
+what is express.js,A minimal web framework for Node.js.
+what is deno,A secure runtime for JavaScript and TypeScript.
+what is graphql api,An API approach letting clients request exactly the data they need.
+what is responsive design,Designing websites that adapt to different screen sizes.
+what is progressive web app,A web app providing native app-like features and offline access.
+what is single page application,A web app loading a single page and dynamically updating content.
+what is server side rendering,Rendering web pages on the server before sending to the client.
+what is static site generation,Pre-rendering pages at build time for fast delivery.
+what is web accessibility,Designing websites usable by people with disabilities.
+what is aria in web,Accessible Rich Internet Applications attributes for accessibility.
+what is dom,The Document Object Model representing a web page's structure.
+what is virtual dom,A lightweight copy of the DOM used for efficient UI updates.
+what is state management,Managing and sharing data across components in an application.
+what is redux,A predictable state container for JavaScript applications.
+what is material design,A design system created by Google for consistent UI.
+what is bootstrap,A CSS framework for building responsive mobile-first websites.
+what is sass,A CSS preprocessor adding variables nesting and mixins.
+what is less css,A dynamic stylesheet language extending CSS with variables.
+what is css grid,A two-dimensional CSS layout system for rows and columns.
+what is flexbox,A one-dimensional CSS layout model for distributing space.
+what is css animation,Creating animated transitions using CSS keyframes.
+what is media query,A CSS technique applying styles based on device characteristics.
+what is web component,Reusable custom elements encapsulating HTML CSS and JavaScript.
+what is shadow dom,An encapsulated DOM tree attached to a web component.
+what is service worker,A script running in the background enabling offline web features.
+what is local storage,Browser storage for saving key-value pairs persistently.
+what is session storage,Browser storage cleared when the page session ends.
+what is indexeddb,A low-level API for storing large amounts of structured data in browsers.
+what is fetch api,A modern JavaScript interface for making HTTP requests.
+what is promise in javascript,An object representing the eventual completion of an async operation.
+what is async await,JavaScript syntax for writing asynchronous code that reads like sync.
+what is closure in javascript,A function that retains access to its outer scope variables.
+what is hoisting in javascript,Moving declarations to the top of scope during compilation.
+what is prototype in javascript,An object from which other objects inherit properties.
+what is event loop,A mechanism handling asynchronous operations in JavaScript.
+what is callback function,A function passed as an argument to be called later.
+what is destructuring,Extracting values from arrays or objects into distinct variables.
+what is spread operator,Syntax expanding an iterable into individual elements.
+what is rest parameter,Syntax collecting remaining arguments into an array.
+what is template literal,A string allowing embedded expressions using backticks.
+what is map in javascript,A collection of key-value pairs remembering insertion order.
+what is set in javascript,A collection of unique values.
+what is symbol in javascript,A primitive type for creating unique identifiers.
+what is proxy in javascript,An object wrapping another to intercept operations on it.
+what is generator in javascript,A function that can pause and resume its execution.
+what is iterator in javascript,An object defining a sequence and a return value.
+what is module in javascript,A file containing reusable code that can be imported.
+what is tree shaking,Removing unused code from the final bundle.
+what is code splitting,Dividing code into smaller chunks loaded on demand.
+what is hot module replacement,Updating modules in a running application without full reload.
+what is source map,A file mapping compiled code back to original source code.
+what is transpiling,Converting source code from one language version to another.
+what is babel,A JavaScript compiler converting modern JS to backwards-compatible code.
+what is polyfill,Code providing modern functionality on older browsers.
+what is web worker,A script running in the background thread in a browser.
+what is cross-platform development,Building applications that run on multiple operating systems.
+what is react native,A framework for building native mobile apps using React.
+what is flutter,A UI toolkit by Google for building natively compiled apps.
+what is electron,A framework for building cross-platform desktop apps with web technologies.
+what is progressive enhancement,Building web content for all browsers then adding features for modern ones.
+what is graceful degradation,Building for modern browsers while ensuring basic function on older ones.
+what is semantic versioning,A versioning scheme using major minor and patch numbers.
+what is a changelog,A file documenting notable changes to a project.
+what is open source license,Legal terms defining how open-source software can be used.
+what is mit license,A permissive open-source license allowing free use and distribution.
+what is apache license,An open-source license allowing use modification and distribution.
+what is gpl license,A copyleft license requiring derivative works to remain open source.
+what is creative commons,A set of licenses for sharing creative work with specific permissions.
+what is documentation in coding,Written text explaining how software works and how to use it.
+what is readme file,A file providing essential information about a project.
+what is a specification,A detailed description of design and behavior requirements.
+what is wireframing,Creating a basic visual guide for a web page layout.
+what is prototyping,Building a preliminary model of a product to test concepts.
+what is user experience design,Designing products to provide meaningful experiences to users.
+what is user interface design,Designing the visual layout users interact with.
+what is a/b testing,Comparing two versions to determine which performs better.
+what is usability testing,Evaluating a product by testing it with representative users.
+what is performance optimization,Improving the speed and efficiency of software systems.
+what is lazy loading,Deferring the loading of resources until they are needed.
+what is minification,Removing unnecessary characters from code to reduce file size.
+what is compression in web,Reducing file sizes for faster network transfer.
+what is http2,A major revision of HTTP improving speed and efficiency.
+what is http3,The latest HTTP version using QUIC for faster connections.
+what is graphql subscription,A GraphQL feature enabling real-time data updates via websockets.
+what is microservices architecture,Structuring an application as a collection of loosely coupled services.
+what is api gateway,A server acting as a single entry point for a group of microservices.
+what is service mesh,Infrastructure managing service-to-service communication in microservices.
+what is serverless function,A small piece of code executed on demand without managing servers.
+what is canary deployment,Gradually rolling out changes to a small subset of users first.
+what is blue green deployment,Running two identical environments and switching traffic between them.
+what is feature flag,A toggle enabling or disabling features without deploying new code.
+what is trunk based development,A branching model where developers merge small changes to a main branch.
+what is gitflow,A branching model using feature release and hotfix branches.
+what is pair review,Two developers reviewing each other's code for quality assurance.
+what is mob programming,An approach where the whole team works on the same code together.
+what is rubber duck debugging,Explaining code line by line to an inanimate object to find bugs.
+what is imposter syndrome,Feeling like a fraud despite being competent in your field.
+what is open closed principle,Software entities should be open for extension but closed for modification.
+what is liskov substitution principle,Subtypes must be substitutable for their base types without errors.
+what is interface segregation principle,Clients should not depend on interfaces they do not use.
+what is dependency inversion principle,High-level modules should not depend on low-level modules.
+what is separation of concerns,Dividing a program into distinct sections each handling a specific concern.
